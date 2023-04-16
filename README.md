@@ -25,10 +25,7 @@ Machine Learning
 
 # Results
 
-EDA insights revealed that top-rated products are in the introductory phase and require a significant marketing investment to raise awareness about their quality.
-Least-rated products are in the declining phase and need a new product vision and relaunch.
-
-Analyzed sentiment on 21,000+ reviews utilizing feature extraction techniques like Bag of Words and TF-IDF.Employed various ML models and identified that Logistic Regression achieved the highest F1 score of 0.93 for classifying reviews as positive, negative, or neutral.
+Developed an automated review system by analyzing sentiment on 21,000+ reviews using feature extraction techniques such as Bag of Words and TF-IDF. Employed various ML models and identified that Logistic Regression achieved the highest F1 score of 0.93 for classifying reviews as positive, negative, or neutral. 
 
 Segmented products and customers into three categories using K-means and Hierarchical clustering techniques.Of the 1,212 unique products analyzed, 32% were labeled as "Best Products", 41% as "Good Products", and 27% as "Average Products" based on their polarity and ratings.
 
