@@ -11,7 +11,7 @@ The dataset used in this analysis consists of Amazon product reviews, including 
 
 # Data
 
- The dataset is available for download from https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews.
+ The dataset is available for download from https://jmcauley.ucsd.edu/data/amazon/.
 
 # Analysis
 
